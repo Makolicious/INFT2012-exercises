@@ -1,0 +1,19 @@
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\bin\Debug\Tut1MilesToKm.exe.config
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\bin\Debug\Tut1MilesToKm.exe
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\bin\Debug\Tut1MilesToKm.pdb
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.csprojResolveAssemblyReference.cache
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.frmMilesToKm.resources
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.Properties.Resources.resources
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.csproj.GenerateResource.Cache
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.csproj.CoreCompileInputs.cache
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.exe
+E:\INFT2012 Tutorials\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.pdb
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\bin\Debug\Tut1MilesToKm.exe.config
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\bin\Debug\Tut1MilesToKm.exe
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\bin\Debug\Tut1MilesToKm.pdb
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.frmMilesToKm.resources
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.Properties.Resources.resources
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.csproj.GenerateResource.Cache
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.exe
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1MilesToKm\Tut1MilesToKm\obj\Debug\Tut1MilesToKm.pdb

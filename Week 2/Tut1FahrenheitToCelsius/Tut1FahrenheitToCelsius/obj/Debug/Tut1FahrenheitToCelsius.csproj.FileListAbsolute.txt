@@ -1,0 +1,8 @@
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\bin\Debug\Tut1FahrenheitToCelsius.exe.config
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\bin\Debug\Tut1FahrenheitToCelsius.exe
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\bin\Debug\Tut1FahrenheitToCelsius.pdb
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\obj\Debug\Tut1FahrenheitToCelsius.frmFtoC.resources
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\obj\Debug\Tut1FahrenheitToCelsius.Properties.Resources.resources
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\obj\Debug\Tut1FahrenheitToCelsius.csproj.GenerateResource.Cache
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\obj\Debug\Tut1FahrenheitToCelsius.exe
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1FahrenheitToCelsius\Tut1FahrenheitToCelsius\obj\Debug\Tut1FahrenheitToCelsius.pdb

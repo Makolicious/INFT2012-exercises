@@ -1,0 +1,10 @@
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\bin\Debug\Tut2BMI.exe.config
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\bin\Debug\Tut2BMI.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\bin\Debug\Tut2BMI.pdb
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.csprojResolveAssemblyReference.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.Form1.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.Properties.Resources.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.csproj.GenerateResource.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.csproj.CoreCompileInputs.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2BMI\Tut2BMI\obj\Debug\Tut2BMI.pdb

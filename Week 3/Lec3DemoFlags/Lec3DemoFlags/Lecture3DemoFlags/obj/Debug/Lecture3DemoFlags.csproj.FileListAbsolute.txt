@@ -1,0 +1,28 @@
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.exe.config
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.exe
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.pdb
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.frmFlag.resources
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.Properties.Resources.resources
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csproj.GenerateResource.Cache
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.exe
+C:\Ddrive\Classwork\Inft2012\LecturesAndLabs\Inft2012Week3MethodsSelection\Lecture3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.pdb
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.exe.config
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.exe
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.pdb
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csprojResolveAssemblyReference.cache
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.frmFlag.resources
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.Properties.Resources.resources
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csproj.GenerateResource.Cache
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csproj.CoreCompileInputs.cache
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.exe
+E:\INFT2012 Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.pdb
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.exe.config
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\bin\Debug\Lecture3DemoFlags.pdb
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csprojResolveAssemblyReference.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.frmFlag.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.Properties.Resources.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csproj.GenerateResource.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.csproj.CoreCompileInputs.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Lec3DemoFlags\Lec3DemoFlags\Lecture3DemoFlags\obj\Debug\Lecture3DemoFlags.pdb

@@ -1,0 +1,10 @@
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.frmDice.resources
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.Properties.Resources.resources
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.csproj.GenerateResource.Cache
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.csproj.CoreCompileInputs.cache
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\bin\Debug\Tut1Dice.exe.config
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\bin\Debug\Tut1Dice.exe
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\bin\Debug\Tut1Dice.pdb
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.exe
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.pdb
+E:\INFT2012 Tutorials\Tut1Dice\Tut1Dice\obj\Debug\Tut1Dice.csprojResolveAssemblyReference.cache

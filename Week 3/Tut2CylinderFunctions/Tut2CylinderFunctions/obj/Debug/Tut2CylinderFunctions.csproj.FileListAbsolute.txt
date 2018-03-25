@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.frmCylinder.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\bin\Debug\Tut2CylinderFunctions.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\bin\Debug\Tut2CylinderFunctions.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\bin\Debug\Tut2CylinderFunctions.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Tut2CylinderFunctions\Tut2CylinderFunctions\obj\Debug\Tut2CylinderFunctions.pdb

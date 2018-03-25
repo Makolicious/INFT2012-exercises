@@ -1,0 +1,9 @@
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\bin\Debug\Tut1ButtonProperties.exe.config
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\bin\Debug\Tut1ButtonProperties.exe
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\bin\Debug\Tut1ButtonProperties.pdb
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\obj\Debug\Tut1ButtonProperties.csprojResolveAssemblyReference.cache
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\obj\Debug\Tut1ButtonProperties.frmBtnProperties.resources
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\obj\Debug\Tut1ButtonProperties.Properties.Resources.resources
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\obj\Debug\Tut1ButtonProperties.csproj.GenerateResource.Cache
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\obj\Debug\Tut1ButtonProperties.exe
+C:\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Tut1ButtonProperties\Tut1ButtonProperties\obj\Debug\Tut1ButtonProperties.pdb

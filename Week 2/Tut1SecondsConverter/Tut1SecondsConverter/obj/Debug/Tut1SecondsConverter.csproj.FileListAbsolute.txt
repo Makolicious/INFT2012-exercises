@@ -1,0 +1,10 @@
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\bin\Debug\Tut1SecondsConverter.exe.config
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\bin\Debug\Tut1SecondsConverter.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\bin\Debug\Tut1SecondsConverter.pdb
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.csprojResolveAssemblyReference.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.secondsConverter.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.Properties.Resources.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.csproj.GenerateResource.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.csproj.CoreCompileInputs.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 2\Tut1SecondsConverter\Tut1SecondsConverter\obj\Debug\Tut1SecondsConverter.pdb

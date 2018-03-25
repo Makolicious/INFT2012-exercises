@@ -1,0 +1,10 @@
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\bin\Debug\Lecture1Drawing.exe.config
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\bin\Debug\Lecture1Drawing.exe
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\bin\Debug\Lecture1Drawing.pdb
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.csprojResolveAssemblyReference.cache
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.frmDrawing.resources
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.Properties.Resources.resources
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.csproj.GenerateResource.Cache
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.csproj.CoreCompileInputs.cache
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.exe
+E:\INFT2012 Tutorials\Lecture1Drawing\Lecture1Drawing\obj\Debug\Lecture1Drawing.pdb
