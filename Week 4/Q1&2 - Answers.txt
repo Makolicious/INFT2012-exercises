@@ -1,0 +1,8 @@
+Q1) This code takes enter data in the form of "<Last Name>, <First Name> <Middle Name>"
+and then separates each name, takes the initials of the first & middle names and then
+displays it in the form of "<First Name initial>. <Middle Name initial>. <Last Name>"
+
+Q2)The given boolean expression will evaluate to true when "sCharacter" is present in
+the first test AND not present in the second test. Completed description: "The
+expression indicates whether sCharacter is present in sAlphabet but is not present in
+sMessage."
