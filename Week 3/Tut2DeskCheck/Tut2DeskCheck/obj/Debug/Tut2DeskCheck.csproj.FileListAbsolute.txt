@@ -1,0 +1,10 @@
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\bin\Debug\Tut2DeskCheck.exe.config
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\bin\Debug\Tut2DeskCheck.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\bin\Debug\Tut2DeskCheck.pdb
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.csprojResolveAssemblyReference.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.Form1.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.Properties.Resources.resources
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.csproj.GenerateResource.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.csproj.CoreCompileInputs.cache
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.exe
+F:\Windows 10\Users\Alex\OneDrive - The University Of Newcastle\INFT2012\Workshops\Week 3\Tut2DeskCheck\Tut2DeskCheck\obj\Debug\Tut2DeskCheck.pdb
