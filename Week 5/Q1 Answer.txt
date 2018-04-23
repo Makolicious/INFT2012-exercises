@@ -1,0 +1,6 @@
+The code in question will take the entered value of iLimit
+and use it to draw a pyramid iLimit - 1 high, like so:
+    **
+   ****
+  ******
+ ********
